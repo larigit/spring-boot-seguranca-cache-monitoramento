@@ -1,4 +1,4 @@
-# Aprendendo Spring Boot - Seguranca, cache e monitoramento
+# Aprendendo Spring Boot - Segurança, cache e monitoramento
 #### Aqui vou estar documentando conceitos novos que estou aprendendo com o curso de Spring Boot da Alura.
 
 ---
